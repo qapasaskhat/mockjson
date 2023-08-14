@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "body": "post text"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "text": "some text"
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1,
+      "text": "some text"
+    }
+  ]
+}
